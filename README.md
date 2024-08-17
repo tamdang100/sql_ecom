@@ -1,4 +1,4 @@
-# Exploring eCommerce Data with SQL and Google BigQuery Analytics
+# Exploring eCommerce dataset with SQL on Google BigQuery
 
 - This project contains an eCommerce dataset that I will explore using SQL on Google BigQuery. 
 - The dataset is based on the Google Analytics public dataset (“ga_sessions”) and contains data from an eCommerce website.
