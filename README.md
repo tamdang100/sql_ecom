@@ -4,3 +4,8 @@
 - The dataset is based on the Google Analytics public dataset (“ga_sessions”) and contains data from an eCommerce website.
 - The queries will give some insightful information to stakeholders.
 - Please see the file "**Project1_Ecomerce Project.sql**" above.
+
+
+# Project 2: Exploring Bicycle Manufacturer (AdventureWorks) dataset with SQL on Google BigQuery
+
+- 
