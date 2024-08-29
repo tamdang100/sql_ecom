@@ -3,7 +3,11 @@
 - This project contains an eCommerce dataset that I will explore using SQL on Google BigQuery. 
 - The dataset is based on the Google Analytics public dataset (“ga_sessions”) and contains data from an eCommerce website.
 - The queries will give some insightful information to stakeholders.
-- Please see the file "**Project1_ecomerce.sql**" above.
+- Please see the file ['**Project1_ecomerce.sql**'](https://github.com/tamdang100/sql_ecom/blob/main/Project1_ecomerce.sql).
+
+
+-
+- above.
 
 
 # Project 2: Exploring AdventureWorks (Bicycle Manufacturer) dataset with SQL on Google BigQuery
