@@ -10,4 +10,4 @@
 
 - This project contains a Bicycle Manufacturer dataset that I will explore using SQL on Google BigQuery.
 - The AdventureWorks dataset is a sample database provided by Microsoft to demonstrate the features of SQL Server and other relational database management systems. This database includes various tables that represent different aspects of a business, such as sales, production, and human resources.
-- Please see the file "**Project2_adventureworks.sql**" above.
+- Please see the file ['**Project2_adventureworks.sql**'](https://github.com/tamdang100/sql_ecom/blob/main/Project2_adventureworks.sql) above.
